@@ -1,0 +1,125 @@
+```
+Main 44 h 
+NON Main 51 h 
+# ---------------Renegade --------------------
+Premium + 1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_01052024_
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad  <t:1704340800:F>
+Left: https://rustmaps.com/map/42cc00740ab14ebd93d3b2d2c2f59c30?embed=img_i_l
+Right: https://rustmaps.com/map/25ce28d562c7497c8a8a2b9135ce1600?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2DuoEU3MainUS3Quad_01052024_
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad <t:1704340800:F>
+Left: https://rustmaps.com/map/8dc76b0302274f26a5eca347f30471e1?embed=img_i_l
+Right: https://rustmaps.com/map/7211419799314281a0eca5a8f32b9c03?embed=img_i_l
+Left: ``X``
+Right: ``X``  
+
+EU3DuoUS3Duo_01052024_
+EU 3x Monthly Duo & US 3x Monthly Duo  <t:1704340800:F>
+Left: https://rustmaps.com/map/4a8d27e0ceca4abdb9d55ddd645d65c7?embed=img_i_l
+Right: https://rustmaps.com/map/22ec9122751341be926f7ed62c51dc10?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2SoloUS2Quad_01052024_
+EU 2x Monthly Solo & US 2x Monthly Quad <t:1704340800:F>
+Left: https://rustmaps.com/map/0a3d2c2854e944f08a6c7f6d68d7869e?embed=img_i_l
+Right: https://rustmaps.com/map/e170ebfd2a324b2bb2e7ba4c41e42da0?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2SoloEU2QuadEU2Low_01052024_
+US 2x Monthly Solo & EU 2x Monthly Quad & EU 2x Monthly Low   <t:1704340800:F>
+Left: https://rustmaps.com/map/8c73b82126dc458d8331cb32c6ecef09?embed=img_i_l
+Right: https://rustmaps.com/map/1e4a6cf466604edbafd0f73a142c6044?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+US2MainEUMainEUMainII_01052024_
+US 2x Monthly Main & EU 2x Monthly Main II  <t:1704304800:F>
+A: https://rustmaps.com/map/57abab07235d48d2be613d2fcab79dca?embed=img_i_l
+B: https://rustmaps.com/map/abd0df03b9b54d848b785b538794a757?embed=img_i_l
+C: https://rustmaps.com/map/b7ce5e93a7a94359aa8741edf3a4b598?embed=img_i_l
+D: https://rustmaps.com/map/ab840799f9094bee914b12100f3342ba?embed=img_i_l
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+
+EU 2x Monthly Main  <t:1704304800:F>
+A: https://rustmaps.com/map/57abab07235d48d2be613d2fcab79dca?embed=img_i_l
+B: https://rustmaps.com/map/abd0df03b9b54d848b785b538794a757?embed=img_i_l
+C: https://rustmaps.com/map/b7ce5e93a7a94359aa8741edf3a4b598?embed=img_i_l
+D: https://rustmaps.com/map/ab840799f9094bee914b12100f3342ba?embed=img_i_l
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+
+USSmallEUSmall_01052024_
+US 2x Monthly Small & EU 2x Small <t:1704340800:F>
+Left: https://rustmaps.com/map/376c4d12bac648bfb26150ef97fa7cd9?embed=img_i_l
+Right: https://rustmaps.com/map/2cb202d439f046799a99f6d6f4875bd0?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+
+
+# ------------------------RustStatic ----------------------------
+Voting Ends: <t:1698897600:F>
+EU2Duo_AU2Quad_US2Main_
+EU 2x Monthly Duo / AU 2x Monthly Quad / US 2x Monthly Main
+Left:  
+Right: 
+Left: ``X``
+Right:``X``
+
+US2Duo_EU2Quad_AU2Main_
+US 2x Monthly Duo / EU 2x Monthly Quad / AU 2x Monthly Main
+Left: 
+Right: 
+Left: ``X``
+Right: ``X``
+
+AU2Duo_US2Quad_EU2Main_
+AU 2x Monthly Duo / US 2x Monthly Quad / EU 2x Monthly Main
+Left: 
+Right:
+Left:``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_01052024_
+2x Monthly Main & 2x Monthly Duo <t:1704340800:F>
+Left: https://rustmaps.com/map/1cd6c544a17445b7bb58e11b29fa0fa7?embed=img_i_l
+Right: https://rustmaps.com/map/f6f81e116f82420dad01ec27081e9884?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo__01052024_
+2x Monthly Quad & 2x Monthly Solo <t:1704340800:F>
+Left: https://rustmaps.com/map/5a30f91a05d04a019edf0c33e9d4c5ae?embed=img_i_l
+Right: https://rustmaps.com/map/17544c4dc7b54cf5bcb0a7562c407713?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+2xTrio__01052024_
+2x Monthly Trio <t:1704340800:F>
+Left: https://rustmaps.com/map/327fb7f8693b49fb8fcff392f2dd61c3?embed=img_i_l
+Right: https://rustmaps.com/map/e234cdcc2b04488e8493fe1ed39c6167?embed=img_i_l
+Left: ``X``
+Right: ``X``
