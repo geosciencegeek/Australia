@@ -1,0 +1,63 @@
+```
+
+#Aspect Panel
+
+US 2x Monthly Duo  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2DuoUS3MainEU3Quad_01052024_Left.map```
+US 2x Monthly Small 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/3500/USSmallEUSmall_01052024_Right.map```
+US 2x Monthly Quad 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU2SoloUS2Quad_01052024_Left.map```
+
+#Byteania Panel
+EU 2x Small 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/3500/USSmallEUSmall_01052024_Right.map```
+EU 2x Monthly Quad 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2SoloEU2QuadEU2Low_01052024_Left.map```
+EU 2x Monthly Low  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2SoloEU2QuadEU2Low_01052024_Left.map```
+EU 3x Monthly Quad  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2DuoUS3MainEU3Quad_01052024_Left.map```
+EU 2x Monthly Main  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4250/US2MainEUMainEUMainII_01052024_A.map```
+US 3x Monthly Main  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2DuoUS3MainEU3Quad_01052024_Left.map```
+US 3x Monthly Quad 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU2DuoEU3MainUS3Quad_01052024_Left.map```
+US 3x Monthly Duo  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU3DuoUS3Duo_01052024_Right.map```
+EU 2x Monthly Duo
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU2DuoEU3MainUS3Quad_01052024_Left.map```
+EU 3x Monthly Main
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU2DuoEU3MainUS3Quad_01052024_Left.map```
+EU 2x Monthly Main II 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4250/US2MainEUMainEUMainII_01052024_C.map```
+EU 2x Monthly Solo
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU2SoloUS2Quad_01052024_Left.map```
+US 2x Monthly Solo 
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/US2SoloEU2QuadEU2Low_01052024_Left.map```
+EU 3x Monthly Duo  
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4000/EU3DuoUS3Duo_01052024_Right.map```
+US 2x Monthly Main
+```https://github.com/geosciencegeek/Australia/raw/main/Renegade/01_2024/4250/US2MainEUMainEUMainII_01052024_C.map```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

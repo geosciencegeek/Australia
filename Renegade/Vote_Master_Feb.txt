@@ -1,0 +1,125 @@
+```
+Main 50 h 
+NON Main 61 h 
+# ---------------Renegade --------------------
+Premium + 1148653253291159562 6 
+Premium 1148651799629287535 3
+Which Map? Left or Right
+US2DuoUS3MainEU3Quad_02012024_
+US 2x Monthly Duo & US 3x Monthly Main & EU 3x Monthly Quad  <t:1706760000:F>
+Left: https://rustmaps.com/map/e701a9d05b0b4618bb0d90f32e6e82e5?embed=img_i_l
+Right: https://rustmaps.com/map/3f60a87031a240edb70f08437c8d0c0f?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+EU2DuoEU3MainUS3Quad_02012024_
+EU 2x Monthly Duo & EU 3x Monthly Main & US 3x Monthly Quad <t:1706760000:F>
+Left: https://rustmaps.com/map/80af7a28c0904f36b69ec53343f4510e?embed=img_i_l
+Right: https://rustmaps.com/map/a8c8570f6e05492a95075633154a5907?embed=img_i_l
+Left: ``X``
+Right: ``X``  
+
+EU3DuoUS3Duo_02012024_
+EU 3x Monthly Duo & US 3x Monthly Duo <t:1706760000:F>
+Left: https://rustmaps.com/map/d59e8905240844d98653eec79d1132ea?embed=img_i_l
+Right: https://rustmaps.com/map/db7931682b4f4dc287f5c217d6c905a0?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+EU2SoloUS2Quad_02012024_
+EU 2x Monthly Solo & US 2x Monthly Quad <t:1706760000:F>
+Left: https://rustmaps.com/map/58430ce839b04de384db355ebd071b4b?embed=img_i_l
+Right: https://rustmaps.com/map/630dad7b13af4d7dbde5e43d0d0a9c8b?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2SoloEU2QuadEU2Low_02012024_
+US 2x Monthly Solo & EU 2x Monthly Quad & EU 2x Monthly Low  <t:1706760000:F>
+Left: https://rustmaps.com/map/0720aed4601a41b19f9d105a8d6c6595?embed=img_i_l
+Right: https://rustmaps.com/map/910a090449c3457f9af3541ef9522262?embed=img_i_l
+Left: ``X``
+Right:``X``
+
+US2MainEUMainEUMainII_02012024_
+US 2x Monthly Main & EU 2x Monthly Main II  <t:1706760000:F>
+A: https://rustmaps.com/map/f7e4cb5bb84d4f02ac47fb0d86942948?embed=img_i_l
+B: https://rustmaps.com/map/45d224a27d8d4f8c8f9ff9d09205487d?embed=img_i_l
+C: https://rustmaps.com/map/b822663a98224a74a16e31cc59efac6f?embed=img_i_l
+D: https://rustmaps.com/map/abe9999f1a064a67b3adecc9e1fd887e?embed=img_i_l
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+
+EU 2x Monthly Main  <t:1704304800:F>
+A: 
+B: 
+C: 
+D: 
+A: ``X``
+B: ``X``
+C: ``X``
+D: ``X``
+
+
+USSmallEUSmall_02012024_
+US 2x Monthly Small & EU 2x Small <t:1706760000:F>
+Left: https://rustmaps.com/map/e41d585b83b64bea930899e648af7edb?embed=img_i_l
+Right: https://rustmaps.com/map/3b3c30b2515140bb8267d8572ac4be88?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+
+
+# ------------------------RustStatic ----------------------------
+Voting Ends: <t:1706760000:F>
+EU2Duo_US2Main__02012024_
+EU 2x Monthly Duo / US 2x Monthly Main <t:1706760000:F>
+Left:  https://rustmaps.com/map/3aab85b640c24b85a3eb82f6115ec95e?embed=img_i_l
+Right: https://rustmaps.com/map/f90026bb6863473cb0930eeb8f6da4d9?embed=img_i_l 
+Left: ``X``
+Right:``X``
+
+US2Duo_EU2Quad_02012024_
+US 2x Monthly Duo / EU 2x Monthly Quad <t:1706760000:F>
+Left: https://rustmaps.com/map/f272ab08565143b687b8d3aaa2ea8e7c?embed=img_i_l
+Right: https://rustmaps.com/map/58b9520380344a4094ca47ae8ecbafac?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+US2Quad_EU2Main_02012024_
+US 2x Monthly Quad / EU 2x Monthly Main <t:1706760000:F>
+Left: https://rustmaps.com/map/221a369b2b52416291084b25a078278c?embed=img_i_l
+Right: https://rustmaps.com/map/3c15d65ec05f4aac9843b457382dd133?embed=img_i_l
+Left:``X``
+Right: ``X``
+
+
+
+# ------------------------Rustolution ----------------------------
+Which Map? Left or Right
+Premium + 1148651281452384407 6
+Premium 1148608415476748431 3
+2xMain2xDuo_02012024_
+2x Monthly Main & 2x Monthly Duo <t:1706760000:F>
+Left: https://rustmaps.com/map/a9fd9415a4664d1b8e3738663714e66e?embed=img_i_l
+Right: https://rustmaps.com/map/b1f63ad256724b54afef0ede2b9653f8?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+2xQuad2xSolo_02012024_
+2x Monthly Quad & 2x Monthly Solo <t:1706760000:F>
+Left: https://rustmaps.com/map/659c897f3907436faa14fba0fa7aa3c0?embed=img_i_l
+Right: https://rustmaps.com/map/46d7bda8671d41cca626e2591e7aad2e?embed=img_i_l
+Left: ``X``
+Right: ``X``
+
+
+2xTrio_02012024_
+2x Monthly Trio <t:1706760000:F>
+Left: https://rustmaps.com/map/9165b8c8991149ad955be7795449b76b?embed=img_i_l
+Right: https://rustmaps.com/map/f90026bb6863473cb0930eeb8f6da4d9?embed=img_i_l
+Left: ``X``
+Right: ``X``
