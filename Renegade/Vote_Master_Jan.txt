@@ -75,24 +75,24 @@ Right: ``X``
 
 # ------------------------RustStatic ----------------------------
 Voting Ends: <t:1698897600:F>
-EU2Duo_AU2Quad_US2Main_
-EU 2x Monthly Duo / AU 2x Monthly Quad / US 2x Monthly Main
-Left:  
-Right: 
+EU2Duo_US2Main_01052024_
+EU 2x Monthly Duo / US 2x Monthly Main
+Left:  https://rustmaps.com/map/5b5595f24f444e35b712e0c117f7a0b2?embed=img_i_l
+Right: https://rustmaps.com/map/5ec622c2d0344904917f95d5a6110966?embed=img_i_l
 Left: ``X``
 Right:``X``
 
-US2Duo_EU2Quad_AU2Main_
-US 2x Monthly Duo / EU 2x Monthly Quad / AU 2x Monthly Main
-Left: 
-Right: 
+US2Duo_EU2Quad_01052024_
+US 2x Monthly Duo / EU 2x Monthly Quad
+Left: https://rustmaps.com/map/9691522679c44a21a0e0168194a1bd38?embed=img_i_l
+Right: https://rustmaps.com/map/56cb16c4ba52464781a8886f0b2baab3?embed=img_i_l
 Left: ``X``
 Right: ``X``
 
-AU2Duo_US2Quad_EU2Main_
-AU 2x Monthly Duo / US 2x Monthly Quad / EU 2x Monthly Main
-Left: 
-Right:
+US2Quad_EU2Main_01052024_
+US 2x Monthly Quad / EU 2x Monthly Main
+Left: https://rustmaps.com/map/ca5858e6d85849f3b67ae76fec8dd5da?embed=img_i_l
+Right: https://rustmaps.com/map/a91d0bbcdd9b42a69e79685ace24da4b?embed=img_i_l
 Left:``X``
 Right: ``X``
 
