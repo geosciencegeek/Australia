@@ -39,12 +39,7 @@ Left: ``X``
 Right:``X``
 
 US2Main_
-US 2x Monthly Main & EU 2x Monthly Main II  <t:1704304800:F>
-Left: 
-Right: 
-Left: ``X``
-Right: ``X``
-
+US 2x Monthly Main  <t:1704304800:F>
 EU2Main_
 EU 2x Monthly Main  <t:1704304800:F>
 Left: 
